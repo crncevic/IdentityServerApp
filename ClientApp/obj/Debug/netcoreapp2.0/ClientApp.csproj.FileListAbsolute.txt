@@ -1,0 +1,8 @@
+C:\Users\ircclient\source\repos\IdentityServerApp\ClientApp\bin\Debug\netcoreapp2.0\ClientApp.deps.json
+C:\Users\ircclient\source\repos\IdentityServerApp\ClientApp\bin\Debug\netcoreapp2.0\ClientApp.runtimeconfig.json
+C:\Users\ircclient\source\repos\IdentityServerApp\ClientApp\bin\Debug\netcoreapp2.0\ClientApp.runtimeconfig.dev.json
+C:\Users\ircclient\source\repos\IdentityServerApp\ClientApp\bin\Debug\netcoreapp2.0\ClientApp.dll
+C:\Users\ircclient\source\repos\IdentityServerApp\ClientApp\obj\Debug\netcoreapp2.0\ClientApp.csprojResolveAssemblyReference.cache
+C:\Users\ircclient\source\repos\IdentityServerApp\ClientApp\obj\Debug\netcoreapp2.0\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\ircclient\source\repos\IdentityServerApp\ClientApp\obj\Debug\netcoreapp2.0\ClientApp.AssemblyInfoInputs.cache
+C:\Users\ircclient\source\repos\IdentityServerApp\ClientApp\obj\Debug\netcoreapp2.0\ClientApp.AssemblyInfo.cs
