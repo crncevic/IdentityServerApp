@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityServerApp", "IdentityServerApp\IdentityServerApp.csproj", "{D3AD92A2-04AD-4B4F-8B7E-7516D1628E42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientApp", "ClientApp\ClientApp.csproj", "{C87E88E1-432A-458A-890D-32EE37A0E6EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClientApp", "ClientApp\ClientApp.csproj", "{C87E88E1-432A-458A-890D-32EE37A0E6EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCApp", "MVCApp\MVCApp.csproj", "{208B142C-E1F9-4433-8FA2-04A28F124C58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C87E88E1-432A-458A-890D-32EE37A0E6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C87E88E1-432A-458A-890D-32EE37A0E6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C87E88E1-432A-458A-890D-32EE37A0E6EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{208B142C-E1F9-4433-8FA2-04A28F124C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{208B142C-E1F9-4433-8FA2-04A28F124C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{208B142C-E1F9-4433-8FA2-04A28F124C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{208B142C-E1F9-4433-8FA2-04A28F124C58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

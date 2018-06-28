@@ -24,7 +24,11 @@ namespace ClientApp
             //slanje zahteva za token
             var tokenClient = new TokenClient(disco.TokenEndpoint, "client", "secret");
 
-            var tokenResponse = await tokenClient.RequestClientCredentialsAsync("api1");
+            //pomocu client credentials
+            //  var tokenResponse = await tokenClient.RequestClientCredentialsAsync("api1");
+
+            //pomocu client password-a
+            var tokenResponse = await tokenClient.RequestResourceOwnerPasswordAsync("alice", "password", "api1");
 
             if (tokenResponse.IsError)
             {
@@ -57,4 +61,4 @@ namespace ClientApp
 
 
 }
-}
+
