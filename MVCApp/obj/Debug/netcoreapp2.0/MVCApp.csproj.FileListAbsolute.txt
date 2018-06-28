@@ -1,0 +1,11 @@
+C:\Users\ircclient\source\repos\IdentityServerApp\MVCApp\bin\Debug\netcoreapp2.0\MVCApp.deps.json
+C:\Users\ircclient\source\repos\IdentityServerApp\MVCApp\bin\Debug\netcoreapp2.0\MVCApp.runtimeconfig.json
+C:\Users\ircclient\source\repos\IdentityServerApp\MVCApp\bin\Debug\netcoreapp2.0\MVCApp.runtimeconfig.dev.json
+C:\Users\ircclient\source\repos\IdentityServerApp\MVCApp\bin\Debug\netcoreapp2.0\MVCApp.dll
+C:\Users\ircclient\source\repos\IdentityServerApp\MVCApp\bin\Debug\netcoreapp2.0\MVCApp.pdb
+C:\Users\ircclient\source\repos\IdentityServerApp\MVCApp\obj\Debug\netcoreapp2.0\MVCApp.csprojResolveAssemblyReference.cache
+C:\Users\ircclient\source\repos\IdentityServerApp\MVCApp\obj\Debug\netcoreapp2.0\MVCApp.csproj.CoreCompileInputs.cache
+C:\Users\ircclient\source\repos\IdentityServerApp\MVCApp\obj\Debug\netcoreapp2.0\MVCApp.AssemblyInfoInputs.cache
+C:\Users\ircclient\source\repos\IdentityServerApp\MVCApp\obj\Debug\netcoreapp2.0\MVCApp.AssemblyInfo.cs
+C:\Users\ircclient\source\repos\IdentityServerApp\MVCApp\obj\Debug\netcoreapp2.0\MVCApp.dll
+C:\Users\ircclient\source\repos\IdentityServerApp\MVCApp\obj\Debug\netcoreapp2.0\MVCApp.pdb
